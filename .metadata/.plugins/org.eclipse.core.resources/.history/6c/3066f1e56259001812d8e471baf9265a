@@ -1,0 +1,18 @@
+package test;
+
+public class Test {
+	static String i;
+	public static void main(String[] args ) {
+		
+		if("".equals(null)) {
+			System.out.println("Hi");
+			
+			
+		}
+		System.out.println(i);
+		
+	}
+	
+	
+	
+}
